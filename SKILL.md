@@ -7,9 +7,8 @@ description: >
   writing, rewriting, editing, or reviewing any content: emails, blog posts, messages, drafts,
   essays, LinkedIn posts, reports, or any other text. Trigger this skill any time the user asks
   to "write", "rewrite", "edit", "improve", "clean up", or "de-slop" any text, or when they
-  say something sounds "too AI", "too robotic", "too polished", or "like AI wrote it".
-  Also trigger proactively when producing long-form writing, apply these rules by default
-  without being asked. The goal is human-sounding, natural prose free of the AI slop patterns
+  say something sounds "too AI", "too robotic", "too polished", or "like AI wrote it". 
+  The goal is human-sounding, natural prose free of the AI slop patterns
   documented below.
 ---
  
@@ -295,6 +294,7 @@ Competent writing doesn't need to tell you it's concluding.
 | One-point dilution | Same thesis restated 8 times |
 | Content duplication | Paragraph 3 = paragraph 17 |
 | Signposted conclusion | "In conclusion..." / "To sum up..." |
+<<<<<<< HEAD
 
 ---
 
@@ -316,3 +316,6 @@ These sources informed the patterns documented in this skill. Credited here for 
   Coins the term "semantic ablation" to describe how AI refinement strips out the precise, unconventional, and high-entropy parts of writing - replacing them with statistically safe, generic output. The real damage is subtractive, not additive.
   https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing
  
+=======
+ 
+>>>>>>> 5176df93506c894e06627fd6525ff2c1a587255b
