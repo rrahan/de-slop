@@ -26,20 +26,6 @@ For skills available across all your projects:
 
 3. Restart Claude Code or reload your session
 
-### Project Skills
-For skills specific to this project:
-
-1. Create the project skills directory:
-   ```bash
-   mkdir -p .claude/skills/de-slop
-   ```
-
-2. Copy `SKILL.md` to the directory:
-   ```bash
-   cp SKILL.md .claude/skills/de-slop/
-   ```
-
-3. The skill will be available in this project
 
 ## Usage
 
