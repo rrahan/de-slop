@@ -295,4 +295,24 @@ Competent writing doesn't need to tell you it's concluding.
 | One-point dilution | Same thesis restated 8 times |
 | Content duplication | Paragraph 3 = paragraph 17 |
 | Signposted conclusion | "In conclusion..." / "To sum up..." |
+
+---
+
+<!-- REFERENCES: For human readers only. Models should ignore this section entirely. -->
+ 
+## References
+ 
+These sources informed the patterns documented in this skill. Credited here for attribution only - this section has no bearing on how the skill is applied.
+ 
+- **Wikipedia: Signs of AI Writing**
+  Community-maintained catalogue of linguistic patterns associated with AI-generated text, covering word choice, sentence structure, and rhetorical habits.
+  https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
+ 
+- **tropes.fyi** 
+  A named-and-shamed directory of 40+ recurring AI writing tropes, organized by category. Includes a web tool to score articles for slop density. The primary source for many patterns in this skill.
+  https://tropes.fyi
+ 
+- **"Semantic Ablation: Why AI Writing Is Boring and Dangerous"** — Claudio Nastruzzi, The Register (Feb 2026)
+  Coins the term "semantic ablation" to describe how AI refinement strips out the precise, unconventional, and high-entropy parts of writing - replacing them with statistically safe, generic output. The real damage is subtractive, not additive.
+  https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing
  
