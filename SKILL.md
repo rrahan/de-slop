@@ -7,9 +7,8 @@ description: >
   writing, rewriting, editing, or reviewing any content: emails, blog posts, messages, drafts,
   essays, LinkedIn posts, reports, or any other text. Trigger this skill any time the user asks
   to "write", "rewrite", "edit", "improve", "clean up", or "de-slop" any text, or when they
-  say something sounds "too AI", "too robotic", "too polished", or "like AI wrote it".
-  Also trigger proactively when producing long-form writing, apply these rules by default
-  without being asked. The goal is human-sounding, natural prose free of the AI slop patterns
+  say something sounds "too AI", "too robotic", "too polished", or "like AI wrote it". 
+  The goal is human-sounding, natural prose free of the AI slop patterns
   documented below.
 ---
  
