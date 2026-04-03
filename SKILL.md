@@ -294,7 +294,6 @@ Competent writing doesn't need to tell you it's concluding.
 | One-point dilution | Same thesis restated 8 times |
 | Content duplication | Paragraph 3 = paragraph 17 |
 | Signposted conclusion | "In conclusion..." / "To sum up..." |
-<<<<<<< HEAD
 
 ---
 
@@ -316,6 +315,3 @@ These sources informed the patterns documented in this skill. Credited here for 
   Coins the term "semantic ablation" to describe how AI refinement strips out the precise, unconventional, and high-entropy parts of writing - replacing them with statistically safe, generic output. The real damage is subtractive, not additive.
   https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing
  
-=======
- 
->>>>>>> 5176df93506c894e06627fd6525ff2c1a587255b
